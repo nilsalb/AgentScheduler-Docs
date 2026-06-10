@@ -72,4 +72,4 @@ If this policy ever changes, the updated version will be distributed with the ap
 ## Contact
 
 Questions about privacy?  
-**Email:** nilsalb@gmail.com
+**Email:** nilssupport@gmail.com
